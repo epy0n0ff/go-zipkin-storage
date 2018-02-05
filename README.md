@@ -1,1 +1,1 @@
-# go-zipkin-storage
+# go-zipkin-storage for Go
